@@ -6,7 +6,7 @@
    " background-color": "#055728"
   },
   "description": "Introducing the \"Blooming Orchid Theme\", a meticulously crafted code theme that builds upon the foundation of the popular Legendary Dark theme by Llewellyn Adonteng Paintsil. Designed with the goal of enhancing readability, the theme takes inspiration from the elegance of nature's vibrant orchids.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "JeanSanchez",
   "repository": {
       "type": "git",
@@ -30,9 +30,12 @@
       "SynthWave",
       "SynthWave '84",
       "Java",
+      "C/C++",
+      "C",
       "C++",
       "Python",
       "JavaScript",
+      "TypeScript",
       "CSS",
       "HTML",
       "MATLAB"
